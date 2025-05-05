@@ -1,4 +1,4 @@
 [
-  { "id": 1, "nombre": "Ana", "email": "ana@mail.com", "pais": "México" },
-  { "id": 2, "nombre": "Luis", "email": "luis@mail.com", "pais": "Colombia" }
+  { "id": 1, "nombre": "Ana", "email": "ana@mail.com", "clave":"123", "pais": "México" },
+  { "id": 2, "nombre": "Luis", "email": "luis@mail.com", "clave":"asd", "pais": "Colombia" }
 ]
